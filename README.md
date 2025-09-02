@@ -1,6 +1,6 @@
 # Hi, I'm Sathish 👋
 
-I’m a **Results-driven Data Analyst** with 2+ years of experience in **data engineering, analytics, and business intelligence**.  
+I’m a **Results-driven Data Analyst** with close to 3 years of experience in **data engineering, analytics, and business intelligence**.  
 I specialize in working with **large-scale datasets (200M+ records)**, building scalable data models, and optimizing workflows to improve reporting efficiency and operational insights.  
 
 ---
@@ -25,12 +25,12 @@ I specialize in working with **large-scale datasets (200M+ records)**, building 
 ---
 
 ## 🎓 Education
-- **MSc in Business Analytics** – Queen’s University Belfast (2022)  
-- **BCA in Computer Applications** – University of Mysore (2020)  
+- **Master of Science in Business Analytics** – Queen’s University Belfast
+- **Bachelor of Computer Applications** – University of Mysore
 
 ---
 
 ## 📫 Contact
 - 💼 [LinkedIn](https://www.linkedin.com/in/sathishsuresh/)  
 - 🐙 [GitHub](https://github.com/DataBySathish)  
-- 📧 ssuresh.work@outlook.com  
+- 📧 ssuresh.work@outlook.com 
