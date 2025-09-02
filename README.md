@@ -33,4 +33,4 @@ I specialize in working with **large-scale datasets (200M+ records)**, building 
 ## 📫 Contact
 - 💼 [LinkedIn](https://www.linkedin.com/in/sathishsuresh/)  
 - 🐙 [GitHub](https://github.com/DataBySathish)  
-- 📧 ssuresh.worke@outlook.com  
+- 📧 ssuresh.work@outlook.com  
