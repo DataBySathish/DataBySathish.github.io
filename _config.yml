@@ -1,9 +1,15 @@
-title: Sathish Suresh
-description: “A curated portfolio showcasing my data analysis, visualization, 
-and machine learning projects — highlighting skills in Python, SQL, and BI tools to extract insights and solve real-world problems.”
-show_downloads: True
+title: "Sathish's Portfolio"
+description: "Data Analyst | Business Intelligence | Data Engineering"
 remote_theme: pages-themes/architect@v0.2.0
+
+author:
+  name: Sathish Suresh
+  email: ssures.work@outlook.com
+
+# Social links
+github_username: https://github.com/DataBySathish/
+linkedin_username: https://www.linkedin.com/in/sathishsuresh/
+
+# Plugins (required for remote themes)
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-
+  - jekyll-remote-theme
